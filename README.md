@@ -5,7 +5,7 @@
 
 <h2>Sobre os Meus Projetos 👷‍♂️</h2>
 <p>Tenho realizado e continuo trabalhando em muitos projetos fora do GitHub, porém, reconheço a importância de tê-los aqui. Com o tempo, pretendo trazer e disponibilizar meus projetos em repositórios por aqui.</p>
-<p>Você pode conferir em detalhes alguns dos meus projetos <a href="https://brunogabrielti.github.io/portfolio">clicando aqui!</a> ;)
+<p>Você pode conferir em detalhes alguns dos meus projetos <a href="https://brunogabrielti.github.io/dev">clicando aqui!</a> ;)
  
 <h2>Linguagens & Frameworks 👨‍💻</h2>
 <img src="https://skillicons.dev/icons?i=python,php,dotnet,javascript,mysql,selenium,html" />
