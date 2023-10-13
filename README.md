@@ -23,6 +23,6 @@
 <h2>E por enquanto, isso é tudo pessoal!</h2>
 <p>Agradeço por sua visita! Caso queira saber mais ou entrar em contato comigo, você pode:</p>
 <ul>
-<li>Para ver alguns dos meus projetos: <a href="https://brunogabrielti.github.io/portfolio">GitHub Pages</a></li>
+<li>Para ver alguns dos meus projetos: <a href="https://brunogabrielti.github.io/dev">GitHub Pages</a></li>
 <li>Para saber um pouco mais sobre mim ou entrar em contato: <a href="https://www.linkedin.com/in/brunogabrielti/">LinkedIn</a></li>
 </ul>
